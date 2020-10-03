@@ -1,0 +1,38 @@
+y = Actual Output
+  = Expected Output
+  = Target
+  = Label
+
+
+y' = Calculated Output
+   = Predicted Output
+   = Machine Output
+Types of Machine Learning : 2
+--------------------------------
+1)Supervised ML  (We have Input(=X) & Output(=Y) )
+   a) Regression ML  /  Linear Regresion ML
+      (Continous output)
+
+   b) Classification ML / Logistic Regresion ML
+      (Discrete output)
+
+2)UnSupervised ML  (We have only Input(=X) Data)
+   a) Clustering(= Grouping) K-Means Algo
+
+
+c  =	a =	b0
+m =	b = 	b1
+y = mx  + c
+y =  c  + mx
+y  = a +  b x
+y = b0 +  b1x
+
+
+
+Logistic Regression				Sigmoid		
+GaussianNB 				Conditional Probability		
+CART or DT				if …else base on decision tree		
+kNN Algo				Based on nearest k other data point		
+SVM				Based on supporting Vectors		
+LDA				Dimension Reduction Technique.
+
